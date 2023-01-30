@@ -1,0 +1,28 @@
+{
+  "name": "istudy-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvsverchkov/istudy-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rvsverchkov/istudy-backend/issues"
+  },
+  "homepage": "https://github.com/rvsverchkov/istudy-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node.js": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
